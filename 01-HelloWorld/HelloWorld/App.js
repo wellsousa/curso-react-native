@@ -5,7 +5,7 @@ export default class App extends Component{
   render(){
       return (
             <View style={styles.container}>
-              <Text style={styles.f20}>Hello World!!!</Text>
+              <Text style={styles.f20}>Hello World!</Text>
             </View>
           )
   }

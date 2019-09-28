@@ -1,0 +1,10 @@
+
+Para executar o android studio pelo terminal
+
+na pasta de instalação do android studio, por exemplo, /home/Android/ va dentro diretiorio bin:
+
+/android-studio/bin
+
+digite:
+
+./studio.sh

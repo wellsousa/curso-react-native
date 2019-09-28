@@ -1,0 +1,10 @@
+
+
+PROJETOS BAIXADOS DO GITHUB
+
+Quando um projeto for baixado do github, normalmente, 
+ele virá sem pacotes padrões como node_modules e então você deve rodar 
+o seguinte comando para instalar esses pacotes no projeto:
+
+npm install --save react-native
+
