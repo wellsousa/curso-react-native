@@ -26,3 +26,11 @@ emulator -avd -list-avds
 //para statart um emulador
 emulator -avd [nome-do-emulador]
 emulator -avd Nexus_5X_API_29_x86
+
+//PROJETOS BAIXADOS DO GITHUB
+//Quando um projeto for baixado do github, normalmente, 
+//ele virá sem pacotes padrões como node_modules e então você deve rodar 
+//o seguinte comando para instalar esses pacotes no projeto:
+
+npm install --save react-native
+
