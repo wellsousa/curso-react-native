@@ -1,0 +1,28 @@
+
+//=============================
+Para executar o android studio pelo terminal
+
+na pasta de instalação do android studio, por exemplo, /home/Android/ va dentro diretiorio bin:
+
+/android-studio/bin
+
+digite:
+
+./studio.sh
+//=============================
+//Para instalar o React-native global
+sudo npm i -g react-native-cli
+
+//Para criar um novo projeto va no diretorio
+//onde o projeto será criado e digite
+sudo react-native init [nome-do-projeto]
+
+//PARA EXECUTAR O PROJETO
+
+//Primeiro inicie o emulador
+//para ver os emuladores existentes
+emulator -avd -list-avds
+
+//para statart um emulador
+emulator -avd [nome-do-emulador]
+emulator -avd Nexus_5X_API_29_x86
